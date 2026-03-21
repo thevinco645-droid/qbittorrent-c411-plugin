@@ -1,0 +1,9 @@
+{
+  "site_url": "https://c411.org",
+  "api_url": "https://c411.org/api",
+  "api_key": "YOUR_API_KEY_HERE",
+  "page_size": 100,
+  "max_pages": 2,
+  "debug": false,
+  "debug_file": "c411.log"
+}
