@@ -21,7 +21,7 @@ CONFIG_FILE = "c411.json"
 DEFAULT_CONFIG = {
     "site_url": "https://c411.org",
     "api_url": "https://c411.org/api",
-    "api_key": "YOUR_API_KEY_HERE",
+    "api_key": "8d5c63f66c70d46548c3d4191182f925",
     "page_size": 100,
     "max_pages": 2,
     "debug": False,
